@@ -1,3 +1,4 @@
-[]TREES
-[]ANIMALS
-[]WEATHER
+💙
+😸
+*Animals
+-seasons
