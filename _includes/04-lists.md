@@ -1,4 +1,3 @@
-💙
-😸
 *Animals
--seasons
+*seasons
+*list 3
